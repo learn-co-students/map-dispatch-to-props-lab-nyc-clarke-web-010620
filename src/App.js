@@ -10,7 +10,7 @@ export class App extends Component {
         <Restaurants />
       </div>
     );
-  }
+  } 
 };
 
 export default App;
